@@ -1,0 +1,1028 @@
+﻿Log file open, 04/23/18 16:46:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TTBU
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1648505329) SRandInit(-1648505329).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.409798
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.23-20.46.13:843][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-20.46.13:843][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.23-20.46.13:851][  0]LogInit: Computer: HAWKEYE
+[2018.04.23-20.46.13:851][  0]LogInit: User: becca
+[2018.04.23-20.46.13:851][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.23-20.46.13:851][  0]LogInit: High frequency timer resolution =4.101561 MHz
+[2018.04.23-20.46.13:852][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.23-20.46.13:852][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.23-20.46.13:852][  0]LogMemory: Process Physical Memory: 272.84 MB used, 272.84 MB peak
+[2018.04.23-20.46.13:852][  0]LogMemory: Process Virtual Memory: 271.88 MB used, 271.88 MB peak
+[2018.04.23-20.46.13:852][  0]LogMemory: Physical Memory: 7218.25 MB used,  9119.44 MB free, 16337.69 MB total
+[2018.04.23-20.46.13:852][  0]LogMemory: Virtual Memory: 684.31 MB used,  9119.44 MB free, 134217728.00 MB total
+[2018.04.23-20.46.14:272][  0]LogInit: Using OS detected language (en-US).
+[2018.04.23-20.46.14:272][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.23-20.46.14:284][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.23-20.46.14:603][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.23-20.46.14:982][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.23-20.46.15:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2018.04.23-20.46.15:024][  0]LogD3D11RHI:       8087/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.23-20.46.15:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.23-20.46.15:026][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.23-20.46.15:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.23-20.46.15:033][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.23-20.46.15:033][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.23-20.46.15:033][  0]LogWindows: EnumDisplayDevices:
+[2018.04.23-20.46.15:033][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2018.04.23-20.46.15:033][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2018.04.23-20.46.15:033][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2018.04.23-20.46.15:033][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2018.04.23-20.46.15:033][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.23-20.46.15:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2018.04.23-20.46.15:033][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.23-20.46.15:033][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.23-20.46.15:033][  0]LogRHI: Texture pool is 5660 MB (70% of 8087 MB)
+[2018.04.23-20.46.15:056][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.23-20.46.15:078][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.23-20.46.15:139][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Intermediate/Shaders/WorkingDirectory/1492/).
+[2018.04.23-20.46.15:139][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/becca/AppData/Local/Temp/UnrealShaderWorkingDir/DF02B5C341DA6FC006A48C80CE2E8A9E/'.
+[2018.04.23-20.46.15:139][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.23-20.46.16:210][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.23-20.46.16:252][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.23-20.46.16:295][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.23-20.46.16:337][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.23-20.46.16:386][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.23-20.46.16:428][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.23-20.46.16:470][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.23-20.46.16:517][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.23-20.46.16:563][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.23-20.46.16:605][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.23-20.46.16:647][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.23-20.46.16:693][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.23-20.46.16:734][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.23-20.46.16:779][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.23-20.46.16:873][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.23-20.46.16:873][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.23-20.46.16:917][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.23-20.46.16:951][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.23-20.46.17:046][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.23-20.46.17:072][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.23-20.46.17:117][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.23-20.46.17:159][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.23-20.46.17:204][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.23-20.46.17:250][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.23-20.46.17:250][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.23-20.46.17:696][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.23-20.46.17:904][  0]LogDerivedDataCache: Loaded boot cache 0.21s 78MB C:/Users/becca/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-20.46.17:905][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/becca/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.23-20.46.17:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.23-20.46.17:905][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.23-20.46.17:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.23-20.46.17:905][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.23-20.46.17:920][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.23-20.46.17:932][  0]LogDerivedDataCache: Using Local data cache path C:/Users/becca/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.23-20.46.17:942][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.23-20.46.17:946][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.23-20.46.17:952][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-20.46.17:952][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-20.46.18:395][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-20.46.18:752][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.23-20.46.18:792][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.23-20.46.18:792][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.23-20.46.18:792][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.23-20.46.18:792][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.23-20.46.18:792][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.23-20.46.18:835][  0]LogNetVersion: TTBU , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1417817761)
+[2018.04.23-20.46.19:024][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.04.23-20.46.19:602][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.056675 seconds
+[2018.04.23-20.46.19:608][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.23-20.46.19:608][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.23-20.46.19:608][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.23-20.46.19:670][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.23-20.46.23:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.23-20.46.23:059][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.23-20.46.23:703][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.23-20.46.24:080][  0]SourceControl: Source control is disabled
+[2018.04.23-20.46.24:080][  0]SourceControl: Source control is disabled
+[2018.04.23-20.46.24:134][  0]SourceControl: Source control is disabled
+[2018.04.23-20.46.24:184][  0]SourceControl: Source control is disabled
+[2018.04.23-20.46.24:919][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.23-20.46.25:163][  0]LogOcInput: OculusInput pre-init called
+[2018.04.23-20.46.25:443][  0]LogEngine: Initializing Engine...
+[2018.04.23-20.46.25:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.23-20.46.25:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-20.46.25:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-20.46.25:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.23-20.46.25:759][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.23-20.46.25:795][  0]LogInit: FAudioDevice initialized.
+[2018.04.23-20.46.25:861][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/becca/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-20.46.25:869][  0]LogInit: Texture streaming: Enabled
+[2018.04.23-20.46.25:964][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.23-20.46.26:083][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.23-20.46.26:106][  0]LogInit: Transaction tracking system initialized
+[2018.04.23-20.46.26:524][  0]BlueprintLog: New page: Editor Load
+[2018.04.23-20.46.27:451][  0]LocalizationService: Localization service is disabled
+[2018.04.23-20.46.28:311][  0]LogConsoleResponse: Display: 
+[2018.04.23-20.46.28:499][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.23-20.46.28:500][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.23-20.46.28:500][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.23-20.46.29:186][  0]LogFileCache: Scanning file cache for directory 'C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/' took 0.02s
+[2018.04.23-20.46.29:809][  0]SourceControl: Source control is disabled
+[2018.04.23-20.46.29:811][  0]Cmd: MAP LOAD FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-20.46.29:811][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.23-20.46.29:811][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-20.46.29:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.604ms to complete.
+[2018.04.23-20.46.29:859][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.049
+[2018.04.23-20.46.30:028][  0]LogCollectionManager: Loaded 0 collections in 0.001348 seconds
+[2018.04.23-20.46.30:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Collections/' took 0.01s
+[2018.04.23-20.46.30:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Developers/becca/Collections/' took 0.01s
+[2018.04.23-20.46.30:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Collections/' took 0.01s
+[2018.04.23-20.46.30:113][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.23-20.46.30:120][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2363 classes and 519 folders.
+[2018.04.23-20.46.30:180][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.23-20.46.30:287][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.23-20.46.30:333][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.23-20.46.30:373][  0]LogSlate: Took 0.001075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-20.46.30:376][  0]LogSlate: Took 0.001048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.23-20.46.30:381][  0]LogSlate: Took 0.001123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.23-20.46.30:473][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.23-20.46.30:673][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.23-20.46.30:673][  0]LogLoad: (Engine Initialization) Total time: 19.53 seconds
+[2018.04.23-20.46.30:673][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.23-20.46.30:673][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.23-20.46.30:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.23-20.46.30:743][  0]LogSlate: Took 0.001150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-20.46.30:792][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/' took 0.09s
+[2018.04.23-20.46.30:804][  1]LogAssetRegistry: Asset discovery search completed in 11.8017 seconds
+[2018.04.23-20.46.30:807][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.23-20.46.30:807][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.04.23-20.46.33:701][341]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-20.46.34:873][481]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-20.46.35:302][481]LogLinker: Warning: Can't find file '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat'
+[2018.04.23-20.46.35:302][481]LogLinker: Warning: Can't find file for asset '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat' while loading ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Dumpster/Meshes/dumpster.uasset.
+[2018.04.23-20.46.35:302][481]LoadErrors: Error: /Game/3D_Assets/Dumpster/Meshes/dumpster : Can't find file for asset. /Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat
+[2018.04.23-20.46.35:302][481]LogLinker: Warning: Can't find file '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat'
+[2018.04.23-20.46.35:302][481]LogLinker: Warning: Can't find file for asset '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat' while loading ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Dumpster/Meshes/dumpster.uasset.
+[2018.04.23-20.46.35:682][481]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-20.46.35:829][481]LogTexture: Display: Building textures: violetta_Top_BaseColor (AutoDXT, 512X512)
+[2018.04.23-20.46.35:829][481]LogTexture: Display: Building textures: UnrealAS_Bottom_Diffuse (AutoDXT, 512X512)
+[2018.04.23-20.46.35:829][481]LogLinker: Warning: Can't find file '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat'
+[2018.04.23-20.46.35:829][481]LoadErrors: Failed to load /Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat.Dumpster_Mat Referenced by dumpster
+[2018.04.23-20.46.35:830][481]LogLinker: Warning: Can't find file for asset '/Game/Generic_Scrap/Dumpster/Materials/Dumpster_Mat' while loading NULL.
+[2018.04.23-20.46.36:033][481]LogTexture: Display: Building textures: Tess_Shoes_BaseColor (AutoDXT, 512X512)
+[2018.04.23-20.46.36:033][481]LogTexture: Display: Building textures: violetta_Bottom_BaseColor (AutoDXT, 512X512)
+[2018.04.23-20.46.36:165][481]LogTexture: Display: Building textures: UnrealVS_Body_Diffuse (AutoDXT, 1024X1024)
+[2018.04.23-20.46.36:165][481]LogTexture: Display: Building textures: violetta_Shoes_BaseColor (AutoDXT, 512X512)
+[2018.04.23-20.46.36:165][481]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2018.04.23-20.46.36:266][481]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.04.23-20.46.36:271][481]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.04.23-20.46.36:362][481]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.04.23-20.46.36:362][481]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.04.23-20.46.36:468][481]LogTexture: Display: Building textures: Dumpster_Albedo (AutoDXT, 2048X2048)
+[2018.04.23-20.46.36:471][481]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.04.23-20.46.36:650][481]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2018.04.23-20.46.36:650][481]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.04.23-20.46.36:650][481]LogStaticMesh: Building static mesh sixbooks...
+[2018.04.23-20.46.36:665][481]LogStaticMesh: Built static mesh [0.02s] /Game/3D_Assets/sixbooks.sixbooks
+[2018.04.23-20.46.36:668][481]LogStaticMesh: Building static mesh Shelf_Broken...
+[2018.04.23-20.46.36:687][481]LogStaticMesh: Built static mesh [0.02s] /Game/3D_Assets/Shelf_Broken.Shelf_Broken
+[2018.04.23-20.46.36:690][481]LogStaticMesh: Building static mesh Shelf...
+[2018.04.23-20.46.36:693][481]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Shelf.Shelf
+[2018.04.23-20.46.36:707][481]LogStaticMesh: Building static mesh Ora_Perch...
+[2018.04.23-20.46.36:716][481]LogStaticMesh: Built static mesh [0.01s] /Game/3D_Assets/Ora_Perch.Ora_Perch
+[2018.04.23-20.46.36:722][481]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.04.23-20.46.36:758][481]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2018.04.23-20.46.36:758][481]LogStaticMesh: Building static mesh Hammer...
+[2018.04.23-20.46.36:765][481]LogStaticMesh: Built static mesh [0.01s] /Game/3D_Assets/Hammer.Hammer
+[2018.04.23-20.46.36:770][481]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.04.23-20.46.36:815][481]LogStaticMesh: Building static mesh dumpster...
+[2018.04.23-20.46.36:895][481]LogStaticMesh: Built static mesh [0.08s] /Game/3D_Assets/Dumpster/Meshes/dumpster.dumpster
+[2018.04.23-20.46.36:915][481]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.46.36:952][481]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.46.37:007][481]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2018.04.23-20.46.37:007][481]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 64X64)
+[2018.04.23-20.46.37:007][481]LogMaterial: Missing cached shader map for material Tess_Shoes_BaseColor_Mat, compiling. 
+[2018.04.23-20.46.37:097][481]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.04.23-20.46.37:139][481]LogStaticMesh: Building static mesh Calisma2_Cube...
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 64X64)
+[2018.04.23-20.46.37:537][481]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.04.23-20.46.37:537][481]LogStaticMesh: Built static mesh [0.40s] /Game/Models/Buildings/actual_buildings/Calisma2_Cube.Calisma2_Cube
+[2018.04.23-20.46.37:565][481]LogStaticMesh: Building static mesh building_Cube...
+[2018.04.23-20.46.37:653][481]LogStaticMesh: Built static mesh [0.09s] /Game/Models/Buildings/actual_buildings/building_Cube.building_Cube
+[2018.04.23-20.46.37:659][481]LogStaticMesh: Building static mesh 2wtc_base_1...
+[2018.04.23-20.46.37:785][481]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.04.23-20.46.37:785][481]LogStaticMesh: Built static mesh [0.13s] /Game/Models/Buildings/actual_buildings/2wtc_base_1.2wtc_base_1
+[2018.04.23-20.46.37:807][481]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.04.23-20.46.37:807][481]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.23-20.46.37:976][481]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 512X256)
+[2018.04.23-20.46.37:976][481]LogStaticMesh: Building static mesh KLtower...
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 128X64)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 64X32)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X256)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X128)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X256)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X64)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 256X64)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 64X64)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 32X32)
+[2018.04.23-20.46.39:012][481]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2018.04.23-20.46.39:012][481]LogStaticMesh: Built static mesh [1.04s] /Game/Models/Buildings/actual_buildings/KLtower.KLtower
+[2018.04.23-20.46.39:132][481]LogStaticMesh: Building static mesh JinMao_base...
+[2018.04.23-20.46.40:612][481]LogStaticMesh: Built static mesh [1.48s] /Game/Models/Buildings/actual_buildings/JinMao_base.JinMao_base
+[2018.04.23-20.46.41:279][481]LogStaticMesh: Building static mesh fbx...
+[2018.04.23-20.46.41:305][481]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Buildings/actual_buildings/fbx.fbx
+[2018.04.23-20.46.41:308][481]LogStaticMesh: Building static mesh farmhouse_fbx_polySurface73...
+[2018.04.23-20.46.41:329][481]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Buildings/actual_buildings/farmhouse_fbx_polySurface73.farmhouse_fbx_polySurface73
+[2018.04.23-20.46.41:331][481]LogStaticMesh: Building static mesh EmpireState_lp...
+[2018.04.23-20.46.41:365][481]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Buildings/actual_buildings/EmpireState_lp.EmpireState_lp
+[2018.04.23-20.46.41:368][481]LogStaticMesh: Building static mesh citadel_citadel...
+[2018.04.23-20.46.41:519][481]LogStaticMesh: Built static mesh [0.15s] /Game/Models/Buildings/actual_buildings/citadel_citadel.citadel_citadel
+[2018.04.23-20.46.41:897][481]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.23-20.46.42:052][481]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.23-20.46.42:138][481]LogStaticMesh: Building static mesh Twin_Islands_Mesh38...
+[2018.04.23-20.46.42:209][481]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/Mountains/Twin_Islands_Mesh38.Twin_Islands_Mesh38
+[2018.04.23-20.46.42:226][481]LogStaticMesh: Building static mesh Twin_Islands_Mesh14...
+[2018.04.23-20.46.42:291][481]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/Mountains/Twin_Islands_Mesh14.Twin_Islands_Mesh14
+[2018.04.23-20.46.42:348][481]LogStaticMesh: Building static mesh Book_Open...
+[2018.04.23-20.46.42:351][481]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Book_Open.Book_Open
+[2018.04.23-20.46.42:352][481]LogStaticMesh: Building static mesh Book_Less_Polys...
+[2018.04.23-20.46.42:355][481]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Book_Less_Polys.Book_Less_Polys
+[2018.04.23-20.46.42:453][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Buildings/actual_buildings/fbx-EB-112_buildEFl02_Anim.fbx-EB-112_buildEFl02_Anim
+[2018.04.23-20.46.42:454][481]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Buildings/actual_buildings/fbx-EB-112_buildEFl02_Anim.fbx-EB-112_buildEFl02_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.23-20.46.42:458][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Thad/Animation/TAAngry_Anim.TAAngry_Anim
+[2018.04.23-20.46.42:458][481]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Thad/Animation/TAAngry_Anim.TAAngry_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.23-20.46.42:472][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Violetta/Animation/Happy_Anim.Happy_Anim
+[2018.04.23-20.46.42:472][481]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Violetta/Animation/Happy_Anim.Happy_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.23-20.46.42:481][481]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Laura/Animation/Look_Around.Look_Around
+[2018.04.23-20.46.42:481][481]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Laura/Animation/Look_Around.Look_Around) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.23-20.46.42:516][481]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2018.04.23-20.46.42:550][481]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2018.04.23-20.46.42:586][481]LogMaterial: Missing cached shader map for material Dumpster_Albedo_Mat, compiling. 
+[2018.04.23-20.46.42:628][481]LogAIModule: Creating AISystem for world Workshop
+[2018.04.23-20.46.42:729][481]Cmd: MAP LOAD FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-20.46.42:729][481]LightingResults: New page: Lighting Build
+[2018.04.23-20.46.42:792][481]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.04.23-20.46.42:793][481]LoadErrors: New page: Loading map: Workshop.umap
+[2018.04.23-20.46.42:798][481]MapCheck: New page: Map Check
+[2018.04.23-20.46.42:798][481]LightingResults: New page: Lighting Build
+[2018.04.23-20.46.42:895][481]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-20.46.42:921][481]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-20.46.43:046][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 124.989ms to complete.
+[2018.04.23-20.46.43:046][481]LogFileHelpers: Loading map 'Workshop' took 0.322
+[2018.04.23-20.46.45:330][696]AssetReimport: New page: Outstanding source content changes 12:46:45 PM
+[2018.04.23-20.46.45:333][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.fbx)
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: NodeAttribute, ItemCount : 8
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: Model, ItemCount : 9
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.23-20.46.45:352][696]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.23-20.46.45:358][696]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.fbx
+[2018.04.23-20.46.45:369][696]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.46:703][696]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.fbx
+[2018.04.23-20.46.46:711][696]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.46:713][696]LogLinker: Can't find file '/Game/3D_Assets/lambert2'
+[2018.04.23-20.46.46:713][696]LogLinker: Can't find file '/Game/3D_Assets/lambert2'
+[2018.04.23-20.46.46:721][696]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.23-20.46.46:756][696]LogStaticMesh: Building static mesh Paper1...
+[2018.04.23-20.46.46:758][696]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Paper1.Paper1
+[2018.04.23-20.46.46:801][697]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.fbx)
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.23-20.46.46:804][697]LogFbx: ItemName: Model, ItemCount : 1
+[2018.04.23-20.46.46:809][697]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.fbx
+[2018.04.23-20.46.46:815][697]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.47:959][697]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.fbx
+[2018.04.23-20.46.47:965][697]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.47:971][697]LogStaticMesh: Building static mesh Paper2...
+[2018.04.23-20.46.47:973][697]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Paper2.Paper2
+[2018.04.23-20.46.47:998][698]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.fbx)
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Model, ItemCount : 7
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Material, ItemCount : 2
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Deformer, ItemCount : 1
+[2018.04.23-20.46.48:002][698]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.23-20.46.48:007][698]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.fbx
+[2018.04.23-20.46.48:014][698]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.48:541][698]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.fbx
+[2018.04.23-20.46.48:550][698]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.48:550][698]LogLinker: Can't find file '/Game/3D_Assets/Glass_Bottle_Texture'
+[2018.04.23-20.46.48:550][698]LogLinker: Can't find file '/Game/3D_Assets/Glass_Bottle_Texture'
+[2018.04.23-20.46.48:554][698]LogMaterial: Missing cached shader map for material Glass_Bottle_Texture, compiling. 
+[2018.04.23-20.46.48:619][698]LogStaticMesh: Building static mesh Soda...
+[2018.04.23-20.46.48:641][698]LogStaticMesh: Built static mesh [0.02s] /Game/3D_Assets/Soda.Soda
+[2018.04.23-20.46.48:671][699]LogEditorFactories: Performing atomic reimport of [C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.fbx]
+[2018.04.23-20.46.48:678][699]LogFbx: Loading FBX Scene from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.fbx
+[2018.04.23-20.46.48:685][699]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.23-20.46.48:693][699]LogStaticMesh: Building static mesh Book_Open...
+[2018.04.23-20.46.48:697][699]LogStaticMesh: Built static mesh [0.00s] /Game/3D_Assets/Book_Open.Book_Open
+[2018.04.23-20.46.48:705][699]LogEditorFactories: -- imported successfully
+[2018.04.23-20.46.48:792][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Assets/Paper1" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.uasset" SILENT=true
+[2018.04.23-20.46.48:807][700]LogSavePackage: Save=13.18ms
+[2018.04.23-20.46.48:807][700]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Paper13982263749AB1044970ECE87878C688D.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.uasset'
+[2018.04.23-20.46.48:811][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper1.uasset
+[2018.04.23-20.46.48:829][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Assets/Paper2" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.uasset" SILENT=true
+[2018.04.23-20.46.48:841][700]LogSavePackage: Save=10.61ms
+[2018.04.23-20.46.48:841][700]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Paper2400C71AE4B875F70847D34B33355B5E0.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.uasset'
+[2018.04.23-20.46.48:844][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Paper2.uasset
+[2018.04.23-20.46.48:860][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Assets/Soda" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.uasset" SILENT=true
+[2018.04.23-20.46.48:872][700]LogSavePackage: Save=10.64ms
+[2018.04.23-20.46.48:872][700]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda0EE112B445547CF02781BDB1001F13FF.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.uasset'
+[2018.04.23-20.46.48:875][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Soda.uasset
+[2018.04.23-20.46.48:913][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Assets/Book_Open" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.uasset" SILENT=true
+[2018.04.23-20.46.48:932][700]LogSavePackage: Save=11.72ms
+[2018.04.23-20.46.48:932][700]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Book_Open9CFB0686435959AEBF853A93AB747E23.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.uasset'
+[2018.04.23-20.46.48:934][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.uasset
+[2018.04.23-20.46.51:943][ 24]AssetReimport: Importing new asset /Game/3D_Assets/Paper1.
+[2018.04.23-20.46.51:943][ 24]AssetReimport: Importing new asset /Game/3D_Assets/Paper2.
+[2018.04.23-20.46.51:943][ 24]AssetReimport: Importing new asset /Game/3D_Assets/Soda.
+[2018.04.23-20.46.51:943][ 24]AssetReimport: Reimported asset Book_Open from C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/3D_Assets/Book_Open.fbx.
+[2018.04.23-20.46.54:586][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gear5)
+[2018.04.23-20.46.55:493][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-20.47.12:579][989]LogActorFactory: Actor Factory created Soda
+[2018.04.23-20.47.13:336][ 47]LogActorFactory: Actor Factory created Soda
+[2018.04.23-20.47.14:602][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-20.47.29:888][591]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.23-20.47.29:891][591]LogMaterial: Missing cached shader map for material Glass_Bottle_Texture, compiling. 
+[2018.04.23-20.47.30:264][591]LogMaterial: Missing cached shader map for material Glass_Bottle_Texture, compiling. 
+[2018.04.23-20.47.30:285][591]LogMaterial: Missing cached shader map for material Glass_Bottle_Texture, compiling. 
+[2018.04.23-20.47.30:328][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.47.30:342][591]LogSlate: Took 0.001279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.23-20.47.30:492][592]LogSlate: Took 0.001232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.23-20.47.32:154][706]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.47.32:154][706]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.47.32:154][706]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.47.32:154][706]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-20.47.41:959][594]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.47.42:013][594]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.47.42:029][594]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.47.42:072][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.47.43:219][666]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.47.43:219][666]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-20.47.43:219][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.47.43:219][666]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.47.43:219][666]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.47.44:877][849]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.47.44:931][849]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.47.44:947][849]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.47.44:989][849]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.47.46:176][920]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.47.46:176][920]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-20.47.46:176][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.47.46:176][920]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.47.46:177][920]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.48.57:243][326]LogActorFactory: Actor Factory created Paper2
+[2018.04.23-20.48.58:003][416]LogActorFactory: Actor Factory created Paper2
+[2018.04.23-20.49.02:997][  9]Cmd: DELETE
+[2018.04.23-20.49.02:997][  9]Cmd: ACTOR DELETE
+[2018.04.23-20.49.03:027][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.23-20.49.03:037][  9]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.04.23-20.49.03:780][ 97]LogActorFactory: Actor Factory created Paper1
+[2018.04.23-20.49.04:629][198]LogActorFactory: Actor Factory created Paper1
+[2018.04.23-20.49.05:941][351]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-20.49.13:319][229]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-20.50.14:020][374]AssetReimport: New page: Outstanding source content changes 12:50:14 PM
+[2018.04.23-20.50.14:023][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Gauntlet_Blueprint.jpg)
+[2018.04.23-20.50.14:105][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Ora_Perch_Blueprint.jpg)
+[2018.04.23-20.50.14:209][376]LogSavePackage: Save=16.46ms
+[2018.04.23-20.50.14:210][376]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Gauntlet_Blueprint8737C7B74B082D635BD3B791DD5ACAAE.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Gauntlet_Blueprint.uasset'
+[2018.04.23-20.50.14:211][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Gauntlet_Blueprint.uasset
+[2018.04.23-20.50.14:240][376]LogSavePackage: Save=14.39ms
+[2018.04.23-20.50.14:240][376]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Ora_Perch_Blueprint5F17FF4B4160EAAECB20B5B556266019.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Ora_Perch_Blueprint.uasset'
+[2018.04.23-20.50.14:242][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Ora_Perch_Blueprint.uasset
+[2018.04.23-20.50.17:193][726]LogMaterial: Missing cached shader map for material Gauntlet_Blueprint_Mat, compiling. 
+[2018.04.23-20.50.17:251][727]AssetReimport: Importing new asset /Game/Textures/Gauntlet_Blueprint.
+[2018.04.23-20.50.17:251][727]AssetReimport: Importing new asset /Game/Textures/Ora_Perch_Blueprint.
+[2018.04.23-20.50.54:884][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-20.50.55:738][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-20.52.29:274][325]LogMaterial: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2018.04.23-20.52.29:329][325]LogMaterial: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2018.04.23-20.52.29:343][325]LogMaterial: Missing cached shader map for material aiStandardSurface1, compiling. 
+[2018.04.23-20.52.29:387][325]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.52.33:104][691]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.52.33:104][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.52.33:104][691]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.52.33:104][691]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-20.52.38:469][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.23-20.52.38:519][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.23-20.52.38:535][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.23-20.52.38:573][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.52.39:541][249]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.52.39:541][249]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.52.39:541][249]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.52.39:541][249]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-20.52.41:482][465]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.04.23-20.52.41:536][465]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.04.23-20.52.41:552][465]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.04.23-20.52.41:595][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.52.42:826][548]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.52.42:826][548]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-20.52.42:826][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.52.42:826][548]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.52.42:826][548]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.52.46:490][962]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.52.46:544][962]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.52.46:560][962]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-20.52.46:600][962]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.52.47:816][ 41]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-20.52.47:816][ 41]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-20.52.47:816][ 41]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-20.52.47:816][ 41]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.52.47:816][ 41]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.52.50:186][307]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.52.50:241][307]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.52.50:257][307]LogMaterial: Missing cached shader map for material solidShader1, compiling. 
+[2018.04.23-20.52.50:296][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-20.54.54:708][465]AssetReimport: New page: Outstanding source content changes 12:54:54 PM
+[2018.04.23-20.54.54:711][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT.jpg)
+[2018.04.23-20.54.54:806][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT.uasset" SILENT=true
+[2018.04.23-20.54.54:824][466]LogSavePackage: Save=16.38ms
+[2018.04.23-20.54.54:824][466]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXTF98AE7E04F07934F07865085E2E4595D.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT.uasset'
+[2018.04.23-20.54.54:826][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT.uasset
+[2018.04.23-20.54.57:838][811]AssetReimport: Importing new asset /Game/Textures/Soda_TXT.
+[2018.04.23-20.55.05:340][707]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.55.08:452][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-20.55.08:548][ 74]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.23-20.55.09:155][144]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.23-20.55.09:268][156]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Soda)
+[2018.04.23-20.55.11:022][362]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.55.11:074][362]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.55.11:088][362]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.55.11:125][362]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-20.55.12:210][435]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-20.55.12:210][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-20.55.12:210][435]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-20.55.12:210][435]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.55.12:210][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-20.56.52:312][136]LogSavePackage: Save=491.82ms
+[2018.04.23-20.56.52:312][136]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Workshop_Auto117A061324C0BD242800B5884E56F1F10.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Maps/Workshop_Auto1.umap'
+[2018.04.23-20.56.52:314][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Maps/Workshop_Auto1.umap
+[2018.04.23-20.56.52:316][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Workshop' took 0.523
+[2018.04.23-20.56.52:316][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.523
+[2018.04.23-20.56.52:319][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D_Assets/lambert2] ([1] browsable assets)...
+[2018.04.23-20.56.52:334][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D_Assets/lambert2.lambert2]
+[2018.04.23-20.56.52:334][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Assets/lambert2]
+[2018.04.23-20.56.52:345][136]LogSavePackage: Save=10.06ms
+[2018.04.23-20.56.52:345][136]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/lambert2_Auto19194250F4C633FA282EDCD94598A619B.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/3D_Assets/lambert2_Auto1.uasset'
+[2018.04.23-20.56.52:348][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/3D_Assets/lambert2_Auto1.uasset
+[2018.04.23-20.56.52:349][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D_Assets/Glass_Bottle_Texture] ([1] browsable assets)...
+[2018.04.23-20.56.52:368][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D_Assets/Glass_Bottle_Texture.Glass_Bottle_Texture]
+[2018.04.23-20.56.52:368][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Assets/Glass_Bottle_Texture]
+[2018.04.23-20.56.52:378][136]LogSavePackage: Save=8.31ms
+[2018.04.23-20.56.52:378][136]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Glass_Bottle_Texture_Auto1203EBDF24C0CEC0D0B78138109E7000A.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/3D_Assets/Glass_Bottle_Texture_Auto1.uasset'
+[2018.04.23-20.56.52:379][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/3D_Assets/Glass_Bottle_Texture_Auto1.uasset
+[2018.04.23-20.56.52:380][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Gauntlet_Blueprint_Mat] ([1] browsable assets)...
+[2018.04.23-20.56.52:399][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Gauntlet_Blueprint_Mat.Gauntlet_Blueprint_Mat]
+[2018.04.23-20.56.52:399][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Gauntlet_Blueprint_Mat]
+[2018.04.23-20.56.52:412][136]LogSavePackage: Save=11.67ms
+[2018.04.23-20.56.52:412][136]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Gauntlet_Blueprint_Mat_Auto159A81365420356F39A6688828D9FB33D.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Textures/Gauntlet_Blueprint_Mat_Auto1.uasset'
+[2018.04.23-20.56.52:414][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Textures/Gauntlet_Blueprint_Mat_Auto1.uasset
+[2018.04.23-20.56.52:415][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Soda_TXT_Mat] ([1] browsable assets)...
+[2018.04.23-20.56.52:437][136]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Soda_TXT_Mat.Soda_TXT_Mat]
+[2018.04.23-20.56.52:437][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Soda_TXT_Mat]
+[2018.04.23-20.56.52:453][136]LogSavePackage: Save=14.65ms
+[2018.04.23-20.56.52:453][136]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat_Auto13DD94E794FAB119CB84D2285985E1D10.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Textures/Soda_TXT_Mat_Auto1.uasset'
+[2018.04.23-20.56.52:455][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Textures/Soda_TXT_Mat_Auto1.uasset
+[2018.04.23-20.56.52:455][136]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.04.23-20.59.08:928][793]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.59.11:691][ 76]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-20.59.11:691][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-20.59.11:691][ 76]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-20.59.11:691][ 76]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-20.59.11:691][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-20.59.38:564][510]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.59.38:579][510]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-20.59.38:618][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-20.59.40:012][627]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-20.59.40:012][627]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-20.59.40:012][627]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-20.59.40:012][627]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.00.19:013][861]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.20:231][902]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.00.20:231][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.00.20:231][902]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.00.20:231][902]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.00.21:634][ 66]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.22:647][148]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.00.22:647][148]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.00.22:647][148]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.00.22:647][148]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.00.23:070][198]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.23:741][249]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.00.24:157][249]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.24:198][249]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.24:228][249]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.24:270][249]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.25:001][249]TextureStreamingBuild: Display: Compiling optional shaders took 0.738 seconds.
+[2018.04.23-21.00.26:407][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.00.26:418][249]LogSavePackage: Save=10.06ms
+[2018.04.23-21.00.26:418][249]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_MatFBADE663447818DB468D6CB88225154E.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.00.26:420][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.00.26:428][249]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.00.26:428][249]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.00.26:428][249]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.00.26:428][249]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.00.33:543][ 72]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.33:584][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-21.00.34:587][146]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-21.00.34:587][146]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-21.00.34:587][146]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.00.34:587][146]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.00.34:587][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.00.40:246][791]LogEditorTransaction: Undo Create Pin Link
+[2018.04.23-21.00.40:248][791]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.40:603][811]LogEditorTransaction: Undo Material Editor: Delete
+[2018.04.23-21.00.40:606][811]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.40:627][811]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.00.40:647][811]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-21.00.41:804][893]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.00.41:804][893]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.00.41:804][893]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.00.41:804][893]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.02.00:319][153]LogEditorTransaction: Undo Edit UTiling
+[2018.04.23-21.02.00:321][153]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.00:340][153]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.00:925][191]LogEditorTransaction: Undo Edit UTiling
+[2018.04.23-21.02.00:928][191]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.00:950][191]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.01:362][219]LogEditorTransaction: Undo Edit UTiling
+[2018.04.23-21.02.01:365][219]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.01:385][219]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.01:833][249]LogEditorTransaction: Undo Move Node
+[2018.04.23-21.02.01:836][249]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.02:265][277]LogEditorTransaction: Undo Move Node
+[2018.04.23-21.02.02:269][277]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.02:646][303]LogEditorTransaction: Undo Material Editor: New Expression
+[2018.04.23-21.02.02:650][303]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.02:667][303]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.02:694][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-21.02.03:885][391]LogEditorTransaction: Undo Move Node
+[2018.04.23-21.02.03:888][391]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.02.04:940][469]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-21.02.04:940][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-21.02.04:940][469]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.02.04:940][469]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.02.04:940][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.02.07:112][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.02.07:651][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.03.38:079][883]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.39:498][  6]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-21.03.39:498][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-21.03.39:498][  6]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.03.39:498][  6]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.03.39:498][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.03.41:166][200]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.41:183][200]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.23-21.03.42:264][279]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.03.42:264][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.03.42:264][279]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.03.42:264][279]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.03.42:264][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.03.45:317][484]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.46:326][559]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.03.46:672][559]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.46:709][559]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.46:741][559]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.46:780][559]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.47:510][559]TextureStreamingBuild: Display: Compiling optional shaders took 0.735 seconds.
+[2018.04.23-21.03.48:954][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.03.48:968][559]LogSavePackage: Save=10.54ms
+[2018.04.23-21.03.48:968][559]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat79565D854CCDFAAA4E3B62A87DF86839.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.03.48:970][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.03.48:977][559]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.03.48:977][559]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.03.48:977][559]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.03.48:977][559]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.03.48:977][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.03.51:950][896]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.52:732][953]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.03.53:132][953]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.53:169][953]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.53:201][953]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.53:241][953]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.03.53:950][953]TextureStreamingBuild: Display: Compiling optional shaders took 0.716 seconds.
+[2018.04.23-21.03.55:427][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.03.55:440][953]LogSavePackage: Save=8.90ms
+[2018.04.23-21.03.55:440][953]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_MatD706CD244EBA34509F37F2BB89DD9A5E.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.03.55:442][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.03.55:450][953]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.23-21.03.55:450][953]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.23-21.03.55:450][953]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.03.55:450][953]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.03.55:450][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.04.01:248][617]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.01:330][624]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.01:851][624]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.01:895][624]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.01:927][624]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.01:968][624]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.02:769][624]TextureStreamingBuild: Display: Compiling optional shaders took 0.807 seconds.
+[2018.04.23-21.04.04:226][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.04:240][624]LogSavePackage: Save=10.02ms
+[2018.04.23-21.04.04:240][624]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat49C534CF4A07810CD51BF88180D06F04.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.04:242][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.04:250][624]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.04.23-21.04.04:250][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.04.23-21.04.04:250][624]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.23-21.04.04:250][624]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.04.04:250][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.23-21.04.08:342][ 94]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.08:406][ 99]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.08:932][ 99]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.08:976][ 99]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.09:008][ 99]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.09:050][ 99]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.09:752][ 99]TextureStreamingBuild: Display: Compiling optional shaders took 0.707 seconds.
+[2018.04.23-21.04.11:290][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.11:303][ 99]LogSavePackage: Save=10.00ms
+[2018.04.23-21.04.11:303][ 99]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_MatCA9DC15E42B6D392CE3B3C8793F378CD.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.11:307][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.14:568][473]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.14:640][479]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.15:148][479]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.15:200][479]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.15:236][479]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.15:276][479]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.15:976][479]TextureStreamingBuild: Display: Compiling optional shaders took 0.705 seconds.
+[2018.04.23-21.04.17:498][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.17:512][479]LogSavePackage: Save=10.33ms
+[2018.04.23-21.04.17:512][479]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_MatD4142C6848119DFD77B91D94D4AE491D.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.17:514][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.25:659][407]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.25:713][411]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.26:240][411]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.26:287][411]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.26:318][411]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.26:357][411]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.27:117][411]TextureStreamingBuild: Display: Compiling optional shaders took 0.767 seconds.
+[2018.04.23-21.04.28:619][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.28:633][411]LogSavePackage: Save=10.64ms
+[2018.04.23-21.04.28:633][411]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat6248853A488C495CFC2BA5B9556AF1BC.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.28:635][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.32:139][812]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.32:209][818]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.32:734][818]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.32:781][818]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.32:814][818]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.32:853][818]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.33:602][818]TextureStreamingBuild: Display: Compiling optional shaders took 0.754 seconds.
+[2018.04.23-21.04.35:124][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.35:138][818]LogSavePackage: Save=10.09ms
+[2018.04.23-21.04.35:138][818]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat110A07DE4B707078DCC932B510FAE96E.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.35:140][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.39:015][253]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.39:065][257]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.39:577][257]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.39:626][257]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.39:655][257]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.39:696][257]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.40:425][257]TextureStreamingBuild: Display: Compiling optional shaders took 0.734 seconds.
+[2018.04.23-21.04.41:929][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.41:943][257]LogSavePackage: Save=9.97ms
+[2018.04.23-21.04.41:943][257]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat3FC2AA06438B3F40B890DEA5B481A382.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.41:945][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.04.47:017][838]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.47:094][845]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.04.47:610][845]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.47:659][845]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.47:690][845]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.47:729][845]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.04.48:449][845]TextureStreamingBuild: Display: Compiling optional shaders took 0.726 seconds.
+[2018.04.23-21.04.49:967][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.04.49:981][845]LogSavePackage: Save=10.13ms
+[2018.04.23-21.04.49:981][845]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_MatA26275D04DD1E378140CC2AD0C7B9D5E.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.04.49:983][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.05.00:056][  3]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.05.00:131][  9]LogMaterialEditor: Saving and Compiling material Soda_TXT_Mat
+[2018.04.23-21.05.00:650][  9]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.05.00:697][  9]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.05.00:729][  9]LogMaterial: Missing cached shader map for material Soda_TXT_Mat, compiling. 
+[2018.04.23-21.05.00:771][  9]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Soda_TXT_Mat, compiling. 
+[2018.04.23-21.05.01:481][  9]TextureStreamingBuild: Display: Compiling optional shaders took 0.716 seconds.
+[2018.04.23-21.05.03:018][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Soda_TXT_Mat" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset" SILENT=true
+[2018.04.23-21.05.03:032][  9]LogSavePackage: Save=10.48ms
+[2018.04.23-21.05.03:032][  9]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Soda_TXT_Mat8F50AE634037CABE0A856F8E6688C9F9.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset'
+[2018.04.23-21.05.03:034][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Textures/Soda_TXT_Mat.uasset
+[2018.04.23-21.05.10:267][831]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.23-21.05.10:742][882]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.23-21.05.23:661][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.05.27:964][791]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.05.28:045][791]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.05.28:067][791]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.05.28:114][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.05.38:898][494]MaterialEditorStats: Base pass shader: 287 instructions
+[2018.04.23-21.05.38:898][494]MaterialEditorStats: Base pass shader with Surface Lightmap: 322 instructions
+[2018.04.23-21.05.38:898][494]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 372 instructions
+[2018.04.23-21.05.38:898][494]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.23-21.05.38:898][494]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.06.04:698][376]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.23-21.06.06:258][541]Cmd: EDCALLBACK SURFPROPS
+[2018.04.23-21.06.12:461][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.06.13:372][363]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.06.25:322][732]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.06.36:872][544]MaterialEditorStats: Base pass shader: 287 instructions
+[2018.04.23-21.06.36:872][544]MaterialEditorStats: Base pass shader with Surface Lightmap: 322 instructions
+[2018.04.23-21.06.36:872][544]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 372 instructions
+[2018.04.23-21.06.36:872][544]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.23-21.06.36:872][544]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.06.38:281][709]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.06.47:014][341]LogMaterialEditor: Saving and Compiling material M_Glass
+[2018.04.23-21.06.47:553][341]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.06.47:623][341]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.06.47:699][341]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.06.47:766][341]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.04.23-21.06.55:673][341]TextureStreamingBuild: Display: Compiling optional shaders took 7.913 seconds.
+[2018.04.23-21.07.29:199][341]LogMaterial: Missing cached shader map for material M_Glass_Darker, compiling. 
+[2018.04.23-21.07.41:413][341]LogSavePackage: Save=12.31ms
+[2018.04.23-21.07.41:413][341]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/M_Glass_Darker56768C074636BAB7973148893478E1EF.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/StarterContent/Materials/M_Glass_Darker.uasset'
+[2018.04.23-21.07.41:415][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/StarterContent/Materials/M_Glass_Darker.uasset
+[2018.04.23-21.07.41:451][341]LogMaterial: Missing cached shader map for material M_Glass_Darker, compiling. 
+[2018.04.23-21.07.41:507][341]LogMaterial: Missing cached shader map for material M_Glass_Darker, compiling. 
+[2018.04.23-21.07.41:529][341]LogMaterial: Missing cached shader map for material M_Glass_Darker, compiling. 
+[2018.04.23-21.07.41:576][341]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.07.44:484][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.07.52:664][ 34]MaterialEditorStats: Base pass shader: 287 instructions
+[2018.04.23-21.07.52:664][ 34]MaterialEditorStats: Base pass shader with Surface Lightmap: 322 instructions
+[2018.04.23-21.07.52:664][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 372 instructions
+[2018.04.23-21.07.52:664][ 34]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.23-21.07.52:664][ 34]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.07.53:330][103]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.07.53:386][103]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.07.53:408][103]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.07.53:452][103]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.07.57:793][408]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.08.00:834][619]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.08.02:408][725]LogMaterialEditor: Saving and Compiling material M_Glass
+[2018.04.23-21.08.02:896][725]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.23-21.08.02:967][725]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.08.03:036][725]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.04.23-21.08.03:099][725]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.04.23-21.08.10:721][725]TextureStreamingBuild: Display: Compiling optional shaders took 7.627 seconds.
+[2018.04.23-21.08.22:608][725]LogSavePackage: Save=11.59ms
+[2018.04.23-21.08.22:608][725]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/M_GlassD73DA6D0429FA7CC069A798D372F7E17.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/StarterContent/Materials/M_Glass.uasset'
+[2018.04.23-21.08.22:610][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/StarterContent/Materials/M_Glass.uasset
+[2018.04.23-21.08.22:617][725]MaterialEditorStats: Base pass shader: 287 instructions
+[2018.04.23-21.08.22:617][725]MaterialEditorStats: Base pass shader with Surface Lightmap: 322 instructions
+[2018.04.23-21.08.22:617][725]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 372 instructions
+[2018.04.23-21.08.22:617][725]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.04.23-21.08.22:617][725]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.23-21.08.23:136][726]LogSavePackage: Save=463.66ms
+[2018.04.23-21.08.23:136][726]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Workshop_Auto203261F3547BA5A721781119B7B017B3F.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Maps/Workshop_Auto2.umap'
+[2018.04.23-21.08.23:138][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Autosaves/Game/Maps/Workshop_Auto2.umap
+[2018.04.23-21.08.23:139][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Workshop' took 0.485
+[2018.04.23-21.08.23:139][726]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.485
+[2018.04.23-21.08.31:536][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda)
+[2018.04.23-21.08.32:395][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.08.49:542][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.09.07:041][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.09.12:217][248]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.10.05:499][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Soda4)
+[2018.04.23-21.10.09:288][724]LogSavePackage: Save=468.81ms
+[2018.04.23-21.10.09:288][724]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/WorkshopEC702081422C92BBD903E387515C0DEE.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop.umap'
+[2018.04.23-21.10.09:295][724]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop.umap
+[2018.04.23-21.10.09:309][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Workshop_BuiltData" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset" SILENT=true
+[2018.04.23-21.10.09:892][724]LogSavePackage: Save=572.87ms
+[2018.04.23-21.10.09:892][724]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Workshop_BuiltDataB716D2AB4107375CC881988BA91FA8B8.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset'
+[2018.04.23-21.10.09:894][724]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset
+[2018.04.23-21.10.59:923][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Paper1)
+[2018.04.23-21.11.00:854][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.23-21.11.17:320][504]LogMaterial: Missing cached shader map for material Ora_Perch_Blueprint_Mat, compiling. 
+[2018.04.23-21.11.38:259][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Book_Open)
+[2018.04.23-21.11.38:616][882]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.23-21.11.47:973][865]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.48:022][865]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.48:038][865]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.48:078][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.11.49:494][960]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-21.11.49:494][960]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-21.11.49:494][960]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-21.11.49:494][960]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.11.49:494][960]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.11.52:558][292]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.52:578][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.11.54:712][491]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.54:729][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.11.55:623][553]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.55:647][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.11.56:828][637]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.56:854][637]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.11.57:598][690]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.11.57:624][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.12.00:198][934]LogMaterial: Missing cached shader map for material shadedBrightnessShader, compiling. 
+[2018.04.23-21.12.00:214][934]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.23-21.12.01:390][ 12]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-21.12.01:390][ 12]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.04.23-21.12.01:390][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-21.12.01:390][ 12]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-21.12.01:390][ 12]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.23-21.12.11:437][ 90]LogSavePackage: Save=459.45ms
+[2018.04.23-21.12.11:437][ 90]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Workshop25685D3844D6AC763DFB38AE370ABDE3.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop.umap'
+[2018.04.23-21.12.11:441][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop.umap
+[2018.04.23-21.12.11:449][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Workshop_BuiltData" FILE="../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset" SILENT=true
+[2018.04.23-21.12.11:889][ 90]LogSavePackage: Save=436.87ms
+[2018.04.23-21.12.11:889][ 90]LogSavePackage: Moving '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Saved/Workshop_BuiltData7E6452664E4FAFE00EEFE38B9B9702DB.tmp' to '../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset'
+[2018.04.23-21.12.11:892][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/becca/Documents/Unreal Projects/seniorProject/TTBU/TTBU/Content/Maps/Workshop_BuiltData.uasset
